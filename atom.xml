@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://SUZY1214.github.io/</id>
     <title>SUZY</title>
-    <updated>2019-12-25T10:18:48.208Z</updated>
+    <updated>2019-12-25T10:22:13.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://SUZY1214.github.io/"/>
     <link rel="self" href="https://SUZY1214.github.io//atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://SUZY1214.github.io//images/avatar.png</logo>
     <icon>https://SUZY1214.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, SUZY</rights>
+    <entry>
+        <title type="html"><![CDATA[*Git和GitHub入门指南（教程）*]]></title>
+        <id>https://SUZY1214.github.io//post/git-he-github-ru-men-zhi-nan-jiao-cheng</id>
+        <link href="https://SUZY1214.github.io//post/git-he-github-ru-men-zhi-nan-jiao-cheng">
+        </link>
+        <updated>2019-12-25T10:20:59.000Z</updated>
+        <content type="html"><![CDATA[<p>file:///C:/Users/ASUS/Desktop/Six%20team%20Git%E5%92%8CGitHub%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97%EF%BC%88%E6%95%99%E7%A8%8B%EF%BC%89.ht<br>
+请双击点开</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[  有些人金玉其外，有些人内在光华。]]></title>
         <id>https://SUZY1214.github.io//post/you-xie-ren-jin-yu-qi-wai-you-xie-ren-nei-zai-guang-hua</id>
@@ -25,7 +35,7 @@
         <link href="https://SUZY1214.github.io//post/you-xie-ren-jin-yu-qi-wai-you-xie-ren-nei-zai-guang-hua-dan-mei-ge-ren-zong-you-yi-tian-hui-yu-dao-yi-ge-ru-cai-hong-ban-xuan-li-de-ren">
         </link>
         <updated>2019-12-24T11:15:42.000Z</updated>
-        <content type="html"><![CDATA[<p>file:///C:/Users/ASUS/Desktop/Six%20team%20Git%E5%92%8CGitHub%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97%EF%BC%88%E6%95%99%E7%A8%8B%EF%BC%89.html</p>
+        <content type="html"><![CDATA[<p>.....</p>
 ]]></content>
     </entry>
     <entry>
